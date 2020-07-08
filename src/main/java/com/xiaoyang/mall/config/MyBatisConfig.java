@@ -5,9 +5,9 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * MyBatis配置类
- * Created by macro on 2019/4/8.
+ * Created by HZ on 2020/07/08.
  */
 @Configuration
-@MapperScan("com.macro.mall.tiny.mbg.mapper")
+@MapperScan("com.xiaoyang.mall.mbg.mapper")
 public class MyBatisConfig {
 }
